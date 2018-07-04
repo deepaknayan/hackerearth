@@ -9,4 +9,6 @@ Do not copy and paste the solutions, instead try to gather some concepts, if any
 
 I am in the process of documenting my code that will help me to understand my code at a later point of time.
 
+Almost all the codes are written in C++.
+
 HAPPY CODING!
