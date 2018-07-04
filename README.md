@@ -7,7 +7,7 @@ This repository is of my own solutions that I have successfully submitted to som
 
 Do not copy and paste the solutions, instead try to gather concepts, if any, from the codes.
 
-I am in the process of documenting my code that will help me to understand my code at a later point of time.
+I am in the process of documenting my code that will help me to understand it at a later point of time.
 
 Almost all the codes are written in C++.
 
